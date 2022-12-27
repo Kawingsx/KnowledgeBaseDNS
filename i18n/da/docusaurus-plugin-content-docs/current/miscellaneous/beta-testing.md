@@ -1,13 +1,13 @@
 ---
-title: 'Private AdGuard DNS beta test'
+title: 'Private AdGuard DNS betatest'
 sidebar_position: 2
 ---
 
-Private AdGuard DNS is the youngest AdGuard product, even though it is in some ways a logical continuation of the idea of [AdGuard Home](https://kb.adguard.com/en/home/overview). With every new version we try to make Private AdGuard DNS better. And on our way to perfection we really need the help of beta testers. Join our team!
+Private AdGuard DNS er det yngste AdGuard-produkt, selvom det på nogle områder er en logisk fortsættelse af ideen om [AdGuard Home](https://kb.adguard.com/en/home/overview). Med hver ny version forsøger vi at gøre Private AdGuard DNS bedre. And on our way to perfection we really need the help of beta testers. Join our team!
 
 ## How to become a beta tester
 
-To become a beta tester of Private AdGuard DNS [go to the AdGuard DNS website](https://adguard-dns.io/en/welcome.html), click the 'Join beta' button in the upper right corner, sign in through social media or an existing AdGuard account. That's it: now you can set up your Private AdGuard DNS, use the service and send us reports on how it works.
+For at blive betatester af Private AdGuard DNS [, så gå til AdGuard DNS-webstedet](https://adguard-dns.io/en/welcome.html), klik på knappen 'Deltag i beta' øverste til højre og log ind via sociale medier eller en eksisterende AdGuard-konto. Det var det: Man kan nu opsætte sin Private AdGuard DNS, bruge tjenesten og indsende rapporter om, hvordan den fungerer.
 
 ## How to report a bug
 
